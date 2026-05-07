@@ -68,3 +68,5 @@ physionet.org/
 .idea/
 *.swp
 *.swo
+
+*.parquet
