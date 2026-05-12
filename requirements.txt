@@ -7,5 +7,16 @@ numpy>=2.0
 pyarrow>=15.0
 fastparquet>=2024.2
 
+# Machine learning
+scikit-learn>=1.5
+xgboost>=2.1
+
+# Deep learning (CUDA 12.8 GPU build)
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch>=2.9
+
 # Plotting
 matplotlib>=3.9
+
+# Progress bars
+tqdm>=4.66
