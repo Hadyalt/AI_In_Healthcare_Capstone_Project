@@ -70,3 +70,9 @@ physionet.org/
 *.swo
 
 *.parquet
+
+# Figures
+figures/
+
+# Data
+data/
