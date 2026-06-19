@@ -23,3 +23,5 @@ matplotlib>=3.9
 
 # Progress bars
 tqdm>=4.66
+
+optuna
