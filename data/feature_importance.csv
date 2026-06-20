@@ -1,0 +1,129 @@
+feature,mean_abs_shap
+gcs_verbal_mean,0.6688
+gcs_verbal_max,0.3589
+first_careunit_Medical Intensive Care Unit (MICU),0.1471
+age,0.1471
+gcs_eye_mean,0.1084
+gcs_verbal_n_measurements,0.0912
+first_careunit_Cardiac Vascular Intensive Care Unit (CVICU),0.0907
+med_propofol,0.0902
+gcs_verbal_min,0.0817
+med_dexmedetomidine,0.0763
+med_opioid,0.0663
+gcs_motor_mean,0.066
+heart_rate_mean,0.0574
+dbp_n_measurements,0.0564
+sbp_n_measurements,0.0506
+dbp_min,0.0454
+heart_rate_max,0.0411
+gcs_motor_max,0.0407
+temperature_n_measurements,0.037
+first_careunit_Trauma SICU (TSICU),0.0369
+lactate_max,0.0357
+sbp_max,0.0334
+mbp_max,0.0329
+sodium_max,0.0322
+spo2_max,0.0314
+first_careunit_Medical/Surgical Intensive Care Unit (MICU/SICU),0.0294
+temperature_mean,0.029
+mbp_n_measurements,0.0289
+sodium_mean,0.0288
+hemoglobin_max,0.0274
+admission_type_OBSERVATION ADMIT,0.0273
+temperature_min,0.0247
+heart_rate_n_measurements,0.0241
+bun_mean,0.024
+gcs_eye_max,0.023
+spo2_mean,0.0225
+resp_rate_n_measurements,0.0225
+race_simple_ASIAN,0.0224
+admission_type_SURGICAL SAME DAY ADMISSION,0.0217
+first_careunit_Surgical Intensive Care Unit (SICU),0.0212
+resp_rate_mean,0.0209
+wbc_min,0.0209
+gcs_eye_min,0.0197
+bun_max,0.0194
+admission_type_URGENT,0.0187
+med_benzodiazepine,0.0185
+dbp_mean,0.0169
+platelets_max,0.0168
+temperature_max,0.0166
+gcs_motor_min,0.0161
+dbp_max,0.016
+first_careunit_Neuro Stepdown,0.0159
+heart_rate_min,0.0144
+sbp_min,0.014
+lactate_min,0.0138
+med_antipsychotic,0.0137
+bicarbonate_min,0.0135
+resp_rate_min,0.0125
+lactate_mean,0.0124
+race_simple_HISPANIC,0.0122
+first_careunit_Neuro Intermediate,0.012
+spo2_min,0.0118
+sodium_min,0.0118
+race_simple_WHITE,0.0109
+potassium_max,0.0106
+hematocrit_max,0.0103
+sbp_mean,0.0101
+race_simple_UNKNOWN,0.0101
+gender_F,0.01
+race_simple_OTHER,0.01
+creatinine_min,0.0091
+admission_type_EW EMER.,0.0089
+wbc_max,0.0087
+creatinine_max,0.0086
+platelets_mean,0.0077
+platelets_min,0.0073
+hematocrit_min,0.0071
+admission_type_DIRECT EMER.,0.0069
+hematocrit_mean,0.0068
+spo2_n_measurements,0.0066
+wbc_mean,0.0066
+chloride_mean,0.0065
+resp_rate_max,0.0065
+admission_type_ELECTIVE,0.0065
+mbp_mean,0.006
+first_careunit_Coronary Care Unit (CCU),0.0059
+potassium_mean,0.0059
+lactate_n_measurements,0.0055
+bicarbonate_max,0.0052
+mbp_min,0.0049
+gcs_motor_n_measurements,0.0042
+hemoglobin_min,0.0041
+hemoglobin_mean,0.004
+creatinine_mean,0.0038
+bicarbonate_mean,0.0036
+first_careunit_Neuro Surgical Intensive Care Unit (Neuro SICU),0.0036
+hematocrit_n_measurements,0.0035
+chloride_max,0.0033
+bun_min,0.0031
+first_careunit_Surgery/Vascular/Intermediate,0.0031
+glucose_min,0.0027
+chloride_min,0.0027
+glucose_max,0.0027
+gcs_eye_n_measurements,0.0024
+platelets_n_measurements,0.002
+glucose_mean,0.0016
+admission_type_EU OBSERVATION,0.0012
+potassium_min,0.0011
+race_simple_BLACK,0.0011
+hemoglobin_n_measurements,0.0004
+bicarbonate_n_measurements,0.0003
+first_careunit_Medicine,0.0002
+first_careunit_Surgery/Trauma,1e-04
+first_careunit_PACU,1e-04
+sodium_n_measurements,1e-04
+chloride_n_measurements,1e-04
+bun_n_measurements,0.0
+creatinine_n_measurements,0.0
+potassium_n_measurements,0.0
+wbc_n_measurements,0.0
+gender_M,0.0
+glucose_n_measurements,0.0
+first_careunit_Med/Surg,0.0
+first_careunit_Intensive Care Unit (ICU),0.0
+first_careunit_Medicine/Cardiology Intermediate,0.0
+first_careunit_Neurology,0.0
+admission_type_AMBULATORY OBSERVATION,0.0
+admission_type_DIRECT OBSERVATION,0.0
