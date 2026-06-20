@@ -2,7 +2,7 @@
 
 This is a college capstone project investigating whether a machine learning ensemble can detect delirium in intensive care unit (ICU) patients earlier and more reliably than the standard shift-based CAM-ICU screening. Delirium is a sudden, serious state of confusion that is common in the ICU and is linked to longer hospital stays, higher mortality, and long-term cognitive impairment, yet it is frequently missed because current screening depends on intermittent manual assessment. Using structured electronic health record (EHR) data from the MIMIC-IV v3.1 dataset, we trained a Random Forest, an XGBoost model, and an LSTM, then combined them into an equal-weight probability-averaging ensemble. The goals were to compare the individual models against the ensemble, quantify how much earlier the model flags delirium relative to CAM-ICU, and analyse performance across demographic subgroups.
 
-_Burak Kilic ([@your-handle](https://github.com/)) • Kieran van der Heijden ([@your-handle](https://github.com/)) • Amen Tsehaie ([@your-handle](https://github.com/)) • Hady Al-Tamimi ([@Hadyalt](https://github.com/Hadyalt))_
+_Burak Kilic ([@your-handle](https://github.com/)) • Kieran van der Heijden ([@kieran20022](https://github.com/kieran20022)) • Amen Tsehaie ([@your-handle](https://github.com/)) • Hady Al-Tamimi ([@Hadyalt](https://github.com/Hadyalt))_
 
 ## Requirements
 
